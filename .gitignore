@@ -1,0 +1,8 @@
+*.aepx
+*.wdp
+/autocad
+/EXPORTED_MOBILE_DATA
+*.bak
+*.dwl
+*.dwl2
+*.ci
